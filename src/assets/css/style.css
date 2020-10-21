@@ -1511,7 +1511,7 @@ svg .cls-3 {
 .hero-area {
   overflow: hidden;
   position: relative;
-  padding: 150px 0 200px;
+  padding: 20px 0 200px;
 }
 
 @media only screen and (min-width: 0px) and (max-width: 991px) {
@@ -1539,7 +1539,7 @@ svg .cls-3 {
 }
 
 .hero-area .shaped-hero-image svg {
-  height: auto;
+  height: 100%;
   width: auto;
   position: relative;
   z-index: 1;
@@ -1597,6 +1597,10 @@ svg .cls-3 {
   .hero-content {
     margin-bottom: 240px;
   }
+}
+
+.hero-content {
+  margin-bottom: 1000px;
 }
 
 .hero-content h1 {
@@ -1706,10 +1710,12 @@ svg .cls-3 {
 }
 
 .transparent-bg-shape:after {
+  /*background-size: cover;*/
   background-image: url("../img/shape_1-Copie.svg");
 }
 
 .transparent-bg-shape:before {
+  /*background-size: cover;*/
   background-image: url(../img/shape_2_cpy.svg);
 }
 
@@ -3050,7 +3056,7 @@ svg .cls-3 {
 	***********************/
 /* Domain Welcome Area */
 .domain-welcome {
-  padding: 230px 0;
+  padding: 9% 0;
 }
 
 .hero-feature-text {
@@ -4265,5 +4271,19 @@ svg .cls-3 {
   width: 200px;
 }
 
+/* Ajout */
 
+.close {
+  cursor: pointer;
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 12px 16px;
+  transform: translate(80%, -100%);
+}
 
+.close:hover {
+  border-radius: 100%;
+  background: #ddd;
+  color: #00cdac !important;
+}

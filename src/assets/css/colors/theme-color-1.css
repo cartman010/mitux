@@ -118,9 +118,9 @@ a:hover,
 .footer-bottom, 
 .back-top {
   background: #44ce78;
-  background: -moz-linear-gradient(left, #44ce78 0%, #43ce9f 100%);
-  background: -webkit-linear-gradient(left, #44ce78 0%,#43ce9f 100%);
-  background: linear-gradient(to right, #449978 0%,#43ce9f 100%);
+  background: -moz-linear-gradient(left, #24c1b4 0%, #10707f 100%);
+  background: -webkit-linear-gradient(left, #24c1b4 0%, #10707f 100%);
+  background: linear-gradient(to right, #24c1b4 0%, #10707f 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#44ce78', endColorstr='#43ce9f',GradientType=1 );
 }
 
