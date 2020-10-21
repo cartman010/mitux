@@ -1511,7 +1511,7 @@ svg .cls-3 {
 .hero-area {
   overflow: hidden;
   position: relative;
-  padding: 2px 0 200px;
+  padding: 10px 0 90px;
 }
 
 @media only screen and (min-width: 0px) and (max-width: 991px) {
