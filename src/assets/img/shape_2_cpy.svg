@@ -29,7 +29,7 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="0.5859375"
-     inkscape:cx="960"
+     inkscape:cx="915.63331"
      inkscape:cy="437"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -39,7 +39,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0" />
+     fit-margin-bottom="0"
+     showguides="false" />
   <metadata
      id="metadata2">
 <?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>    <x:xmpmeta
@@ -53,7 +54,7 @@
             <dc:format>image/svg+xml</dc:format>
             <dc:type
                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title></dc:title>
+            <dc:title />
           </cc:Work>
         </rdf:RDF>
       </metadata>
@@ -74,7 +75,7 @@
      id="Rounded_Rectangle_514"
      data-name="Rounded Rectangle 514"
      class="cls-1"
-     d="m 1920,0 v 365 c -53.0982,88.4433 -62.6031,161.97222 -198.2533,303.96733 C 1593.9767,812.75033 1356.89,952.55967 1161.01,950.26967 777.52099,952.77698 407.80041,878.05805 0,874 V 123 C 7.6169267,47.92539 47.534915,21.302373 91,0 Z"
-     sodipodi:nodetypes="cccccccc"
-     style="fill:#00ffff" />
+     d="m 1920,0 v 287.84763 c -36.6117,48.09228 -255.6199,40.71514 -454.2381,105.76706 -89.4389,29.29324 -166.2572,116.57175 -233.8285,159.8845 -49.1221,31.48691 -114.1522,41.8835 -174.8611,51.06743 -60.54634,9.15934 -123.05069,5.87873 -184.48893,3.36031 C 714.76011,601.45759 645.24175,568.65184 401.88575,560.57418 313.01961,557.62446 217.9822,568.20393 121.21264,563.05021 73.797659,560.52499 28.091098,548.46279 -13.653333,514.28777 -136.05899,414.07767 0,97.000705 0,97.000705 7.6169267,37.795097 47.534915,16.799555 91,0 Z"
+     sodipodi:nodetypes="ccssaasssccc"
+     style="fill:#00ffff;stroke-width:1" />
 </svg>
