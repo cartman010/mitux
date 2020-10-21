@@ -8,9 +8,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1920"
+   width="1384"
    height="950.33136"
-   viewBox="0 0 1920 950.33136"
+   viewBox="0 0 1384 950.33136"
    version="1.1"
    id="svg9"
    sodipodi:docname="shape_2_cpy.svg"
@@ -29,7 +29,7 @@
      id="namedview11"
      showgrid="false"
      inkscape:zoom="0.5859375"
-     inkscape:cx="915.63331"
+     inkscape:cx="605.00157"
      inkscape:cy="437"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -54,7 +54,7 @@
             <dc:format>image/svg+xml</dc:format>
             <dc:type
                rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-            <dc:title />
+            <dc:title></dc:title>
           </cc:Work>
         </rdf:RDF>
       </metadata>
