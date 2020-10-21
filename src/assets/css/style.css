@@ -1539,7 +1539,7 @@ svg .cls-3 {
 }
 
 .hero-area .shaped-hero-image svg {
-  height: 100%;
+  height: 50%;
   width: auto;
   position: relative;
   z-index: 1;
